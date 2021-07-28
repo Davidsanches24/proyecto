@@ -1,0 +1,26 @@
+
+
+body{
+
+    font-family:Tahoma;
+ 
+    background-image: url("../img/sena.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    overflow: scroll;
+    
+}
+.caja1{
+position: relative; top: 0%; left: 0% ;
+font-size: 40px;
+text-align: center;
+/*border-style: inset; border-width: 4px;
+border-color: coral;
+height: 65%;
+width: 20%;*/
+}
+.contraseña{
+    position: relative; top: 0%; left: 45% ;
+font-size: 40px;
+}
